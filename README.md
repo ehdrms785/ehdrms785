@@ -9,14 +9,6 @@
 ## Contact
  Email : daro.allway.ok@gmail.com
 
-
-
-### Mobile Stacks
-
-<img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/mobx-%23FF9955?style=for-the-badge&logo=mobx&logoColor=white"/>
-
- 
 ### Web Stacks
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
@@ -25,6 +17,13 @@
 </br>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+### Mobile Stacks
+
+<img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/mobx-%23FF9955?style=for-the-badge&logo=mobx&logoColor=white"/>
+
+
 
 ### Database Stacks
 
