@@ -4,7 +4,6 @@
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DARO_FE__&fontSize=90)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhttps%3A%2F%2Fgithub.com%2Fehdrms785%2Fhit-counter&count_bg=%2350678C&title_bg=%23555555&icon=github.svg&icon_color=%23FFF5F5&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## Contact
  Email : daro.allway.ok@gmail.com
